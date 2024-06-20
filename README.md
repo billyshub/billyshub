@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋  
+Welcome to my github  
+- 🔭 I’m currently working on a TrueNAS system with containerised applications.
+- 🌱 I’m currently learning Python, Italian and piano.
 
 <!--
 **billyshub/billyshub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
