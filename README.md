@@ -1,7 +1,6 @@
 ### Hi there 👋  
-Welcome to my github, check out my guides on a DIY ambilight, some ideas for home assistant automations or an API connecting miro and scanners pinned below.  
+Welcome to my github & blog, check out my guides pinned below on a DIY ambilight, some ideas for home assistant automations or an API connecting miro and scanners.  
 - 🔭 I’m currently working on a TrueNAS system with containerised applications.
-- 🌱 I’m currently learning Python, Italian and piano.
 
 <!--
 **billyshub/billyshub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
