@@ -1,5 +1,5 @@
 ### Hi there 👋  
-Welcome to my github & blog, check out my guides pinned below on a DIY ambilight, some ideas for home assistant automations and an API connecting miro and scanners.  
+Welcome to my github & github gists blogs. Check out my guides pinned below on a DIY ambilight, some ideas for Home Assistant automations, an API connecting Miro and scanners and my completed Cloud Resume Challenge - Azure.  
 - 🔭 I’m currently working on a TrueNAS system with containerised applications.
 
 <!--
