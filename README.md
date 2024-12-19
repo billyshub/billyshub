@@ -1,5 +1,5 @@
 ### Hi there 👋  
-Welcome to my github & github gists blogs. Check out my pins below for guides on a DIY ambilight, some ideas for Home Assistant automations, an API connecting Miro and scanners and my completed Cloud Resume Challenge - Azure.  
+Welcome to my github & github gists blogs. Check out my pins below for guides on a DIY ambilight, some ideas for Home Assistant automations, an API connecting Miro with scanners, and my completed Cloud Resume Challenge - Azure.  
 - 🔭 I’m currently working on a Promox system running VMs and containers (TrueNAS, Ubuntu, Hyperion, HomeAssistant, Wireguard, Frigate, Adguard Home, Unifi Network, and others).
 
 <!--
