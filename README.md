@@ -1,6 +1,6 @@
 ### Hi there 👋  
 Welcome to my github & github gists blogs. Check out my pins below for guides on a DIY ambilight, some ideas for Home Assistant automations, an API connecting Miro with scanners, and my completed Cloud Resume Challenge - Azure.  
-- 🔭 I’m currently working with a Promox Hypervisor system running VMs and containers such as TrueNAS, Immich, Mealie, Ubuntu, Hyperion, HomeAssistant, Wireguard, Tailscale, Adguard Home, NextCloud, Unifi Network, and others.
+- 🔭 I’m currently working with a Proxmox Hypervisor system running VMs and containers such as TrueNAS, Immich, Mealie, Ubuntu, Hyperion, HomeAssistant, Wireguard, Tailscale, Adguard Home, NextCloud, Unifi Network, and others.
 
 <!--
 **billyshub/billyshub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
